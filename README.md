@@ -21,18 +21,31 @@
 - Pretending to be serious about my MSc in IT & Applied Security.  
 - Building cool stuff at Cubit.Inc, and occasionally breaking things too. 🙃
 
+## 🌍 Interests
+
+- **Travel:** Exploring the beautiful districts of Nepal and beyond.
+- **Photography:** Capturing moments that tell a story.
+- **Learning:** Always curious about new tech, frameworks, and how to break (and fix) them.
+
 ## 💬 Ask Me About
 
 - How to make a bug a feature. (I’m a pro at this)
 - Surviving IT life with *masala chai* ☕.
 - Capturing that perfect shot (or at least trying to).
 
+## 📂 Projects
+
+- **[Flutter Base App](https://github.com/RoshanOscarSah/flutterbaseapp.git):** FlutterBaseApp is a robust starting template designed to streamline the development process for Flutter applications. This template comes pre-configured with essential libraries and tools to help you quickly set up a project with multi-environment support, including Firebase integration for dev, staging, and production environments.
+- **[Cylinder 2.0](https://github.com/RoshanOscarSah/Cylinder-2.0.git):** A cylinder Inventory Management complete system for gas dealers.
+
 ## 📫 Let's Connect!
 
-- **LinkedIn:** [linkedin.com/in/destiny2jannat](https://linkedin.com/in/destiny2jannat)  
-- **GitHub:** [github.com/RoshanOscarSah](https://github.com/RoshanOscarSah)  
-- **Instagram:** [https://instagram.com/nepaligallery](https://www.instagram.com/nepaligallery?igsh=NXhsaXduY2xkd2l4)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/destiny2jannat)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/RoshanOscarSah)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink)](https://instagram.com/nepaligallery)
 
 ---
 
 *PS: If you find any typos, they’re actually “features” of my README.* 😜
+
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/RoshanOscarSah&title=Profile%20Views)
