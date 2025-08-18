@@ -39,7 +39,7 @@
 - **[Cylinder 2.0](https://github.com/RoshanOscarSah/Cylinder-2.0.git):** A cylinder Inventory Management complete system for gas dealers.
 
 **More on**
-[![Website]](https://roshansah.com.np)
+[[Website]](https://roshansah.com.np)
 
 
 ## 📫 Let's Connect!
@@ -51,5 +51,3 @@
 ---
 
 *PS: If you find any typos, they’re actually “features” of my README.* 😜
-
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/RoshanOscarSah&title=Profile%20Views)
