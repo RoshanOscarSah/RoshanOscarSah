@@ -11,6 +11,51 @@
 
 <br>
 
+<h3><code>roshan@github ~ $ cat ./about</code></h3>
+
+</div>
+
+Senior Flutter Developer · MSc IT & Applied Security · Kathmandu, Nepal
+
+Cross-platform apps end to end — Flutter on the front, Firebase/Node on the
+back, and me hitting "Submit for Review" on both stores.
+
+<div align="center">
+
+<br>
+
+<h3><code>roshan@github ~ $ cat ./skills.json</code></h3>
+
+</div>
+
+```json
+{
+  "mobile": ["Flutter", "Dart", "BLoC / Riverpod / Provider", "Clean Architecture", "Platform Channels", "ML Kit", "FCM", "CI/CD"],
+  "backend": ["Firebase (Auth, Firestore, Storage, Functions)", "Node.js", "TypeScript", "REST", "PostgreSQL", "MySQL"],
+  "payments": ["eSewa", "Stripe", "signature-verified webhooks"],
+  "also_speaks": ["Kotlin", "React", "Next.js", "PHP", "Python"],
+  "design": ["Figma", "Adobe XD", "Photoshop"]
+}
+```
+
+<div align="center">
+
+<br>
+
+<h3><code>roshan@github ~ $ cat ./currently.log</code></h3>
+
+</div>
+
+```
+[2023-10 → now]  Senior Flutter Developer @ Cubit Inc. — clients across Nepal, Samoa, Vanuatu
+[2024]           MSc IT & Applied Security, Islington College / London Metropolitan University — Pass with Merit
+[ongoing]        Side projects that keep growing features I didn't plan for
+```
+
+<div align="center">
+
+<br>
+
 <h3><code>roshan@github ~ $ ls -la ./shipped</code></h3>
 
 </div>
@@ -25,6 +70,28 @@
 | **[Hariyo Naksha](https://apps.apple.com/us/app/hariyo-naksha/id6744655279)** | Flutter · iOS, Android | Travel tracker across Nepal's 77 districts. Custom SVG rendering with `CustomPaint` and hit testing — no map SDK. |
 | **[Cylin](https://play.google.com/store/apps/details?id=com.eachut.cylin)** | Flutter · iOS, Android | Gas cylinder ordering and delivery, customer and operator roles, OTP auth, Maps, payments. |
 | **[Nepal SMS](https://apps.apple.com/us/app/nepal-sms/id6445808984)** | Flutter · iOS, Android | SMS over internet to Nepali numbers. In-app purchase credits, Google/Apple Sign-In, emergency SMS with location. |
+
+<div align="center">
+
+<br>
+
+<h3><code>roshan@github ~ $ man roshan</code></h3>
+
+</div>
+
+```
+NAME
+    roshan — Flutter developer, Kathmandu, Nepal
+
+ASK ME ABOUT
+    Shipping a Flutter app to both stores without losing your mind at review time
+    Structuring a Flutter project that survives past month three
+    Wiring eSewa / Stripe payments in Nepal
+    Surviving IT life on masala chai
+
+INTERESTS
+    Traveling Nepal's districts, photography (Canon 80D), losing tutorial tabs
+```
 
 <div align="center">
 
