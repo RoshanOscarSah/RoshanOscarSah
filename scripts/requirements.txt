@@ -1,0 +1,11 @@
+# Only needed locally, when you regenerate the art.
+# Nothing runs on a schedule — both SVGs are static once built.
+
+pillow
+numpy
+opencv-python
+
+# Optional. Gives a cleaner subject cut-out than the built-in GrabCut
+# fallback. Heavy (pulls onnxruntime + downloads a model on first run),
+# so skip it unless GrabCut struggles with your photo.
+# rembg
