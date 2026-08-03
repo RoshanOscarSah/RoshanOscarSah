@@ -1,7 +1,5 @@
 <div align="center">
 
-<h3><code>roshan@github ~ $ whoami</code></h3>
-
 <table>
   <tr>
     <td valign="top"><img src="./roshan-ascii.svg" width="372" alt="ASCII portrait of Roshan Sah" /></td>
@@ -9,24 +7,12 @@
   </tr>
 </table>
 
-<br>
-
-<h3><code>roshan@github ~ $ cat ./about</code></h3>
-
 </div>
 
 Senior Flutter Developer · MSc IT & Applied Security · Kathmandu, Nepal
 
 Cross-platform apps end to end — Flutter on the front, Firebase/Node on the
 back, and me hitting "Submit for Review" on both stores.
-
-<div align="center">
-
-<br>
-
-<h3><code>roshan@github ~ $ cat ./skills.json</code></h3>
-
-</div>
 
 ```json
 {
@@ -38,27 +24,11 @@ back, and me hitting "Submit for Review" on both stores.
 }
 ```
 
-<div align="center">
-
-<br>
-
-<h3><code>roshan@github ~ $ cat ./currently.log</code></h3>
-
-</div>
-
 ```
 [2023-10 → now]  Senior Flutter Developer @ Cubit Inc. — clients across Nepal, Samoa, Vanuatu
 [2024]           MSc IT & Applied Security, Islington College / London Metropolitan University — Pass with Merit
 [ongoing]        Side projects that keep growing features I didn't plan for
 ```
-
-<div align="center">
-
-<br>
-
-<h3><code>roshan@github ~ $ ls -la ./shipped</code></h3>
-
-</div>
 
 | | | |
 |---|---|---|
@@ -70,14 +40,6 @@ back, and me hitting "Submit for Review" on both stores.
 | **[Hariyo Naksha](https://apps.apple.com/us/app/hariyo-naksha/id6744655279)** | Flutter · iOS, Android | Travel tracker across Nepal's 77 districts. Custom SVG rendering with `CustomPaint` and hit testing — no map SDK. |
 | **[Cylin](https://play.google.com/store/apps/details?id=com.eachut.cylin)** | Flutter · iOS, Android | Gas cylinder ordering and delivery, customer and operator roles, OTP auth, Maps, payments. |
 | **[Nepal SMS](https://apps.apple.com/us/app/nepal-sms/id6445808984)** | Flutter · iOS, Android | SMS over internet to Nepali numbers. In-app purchase credits, Google/Apple Sign-In, emergency SMS with location. |
-
-<div align="center">
-
-<br>
-
-<h3><code>roshan@github ~ $ man roshan</code></h3>
-
-</div>
 
 ```
 NAME
@@ -94,10 +56,6 @@ INTERESTS
 ```
 
 <div align="center">
-
-<br>
-
-<h3><code>roshan@github ~ $ cat ./contact</code></h3>
 
 [![Website](https://img.shields.io/badge/website-roshansah.com.np-0d1117?style=flat-square&labelColor=161b22)](https://roshansah.com.np)
 [![LinkedIn](https://img.shields.io/badge/linkedin-roshansah729-0d1117?style=flat-square&labelColor=161b22)](https://linkedin.com/in/roshansah729)
